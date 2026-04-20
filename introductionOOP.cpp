@@ -6,7 +6,10 @@ public :
     int nim;
     string nama;
     float nilai;
-    
+
+    void printData(){
+        
+    }    
 }; //batas class
 
 
